@@ -1,0 +1,21 @@
+{
+   "version":"0.0.1",
+   "uuid":"7465a0f1-ab3c-43a0-b2ae-436c8f8cd1b4",
+   "validity":{
+      "validFrom":"",
+      "validTo":""
+   },
+   "issuedTo":{
+      "uuid":"55b747ca-a633-4620-bc99-9d2eef398476",
+      "name":"Test1",
+      "email":"test1@ian.com"
+   },
+   "algorithems":{
+      "key":"rsa",
+      "hash":"sha512"
+   },
+   "publicKey":"MIICCgKCAgEA6VSlQaVqxiEd7cuHDfqzwoAts+L8+E6cD+6BI9XXhanfOZQZcQE0vxIsYFGG64M9sekDl8l+AUV9LFkTYxVq5bio3AFuIzRUG6j9v/W3BDx/3tQC1kCJ46hUvhBptUSO175so2OnW4bpPSNfXIr4c5rs0ZeBW/YYnCacHLfOfgmzFnxCbMiTXle4B3swz8iIlXgCrsUm/WIs+x6/UwNgOSmyNH3HRzEd1XX65vFGuyXaygm0i+1IbIpGvA5c1ATFYhsgdsr5Suj/o/cvl+1FWr1EQ8ajCHoqJ4aONTCc9urq0D1ipjEVF1SDiBEPNfRBjGb+GliqfcGndPcoD+Oid3QwpjcyCyjzVbaIxrEZX9rz0AV/LHhpQJAou5Y5H2fGirFCZq7PS4jK2Sd+jqY2Pa4hy/4WuwvqH/LSvOSIka9xTnki7XmhMUD8hryo/L48tPP9/k300YSg9kw7tWoH9u/A++O1cfawf+WV5wI2/OKg6GbgC26IJCgpK9+lShuukW2n2e0y2YDncEeklA+eIzUofx2LP5OHhCIT2QHPDV/xKlPX/ojTbqgPilQPsvYJQt28q+lhQIoz59pL8zU+eWsfo/HK1ccpRVM0Nl/mhgKy94EkJnBIrO3KpzDHYEuB67ZVy91pFvasmkhQGhGs3ydIqs00LKOntUrqTUs/G1ECAwEAAQ==",
+   "createdAt":1665879904014,
+   "signature":"yNgUm9k6lNqTOD2u5Xm7p/G9IPMePvw61022AcUenMYph6iv6pRyHdyPZa3zveX2Zd0pAkZwGlx4qKbSwxjSVg"
+}
+
